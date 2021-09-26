@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning CSS and Bootstrap.
 - 💞️ I’m looking to collaborate on beginner level CSS projects.
-- 📫 How to reach me: audrey9568@gmail.com
+- 📫 How to reach me: 
 
 <!---
 audrey9568/audrey9568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
